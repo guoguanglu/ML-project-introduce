@@ -14,6 +14,11 @@ wine snob website: https://elitedatascience.com/python-machine-learning-tutorial
 2. 试试 python 机器学习包-sklearn-  
 3. 推荐系统是一个比较好的练习，有很多开源toolbox，数据公开，可以利用这些公开工具去数据集上尝试，可以看关于netflix比赛获奖者的report  
 4. Github.Build software better, together 上获取一些资源。
+***
+Project  
+---  
+Titanic :https://www.kaggle.com/c/titanic#description
+
 ***  
 Reference  
 ---  
