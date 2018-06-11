@@ -17,7 +17,9 @@ wine snob website: https://elitedatascience.com/python-machine-learning-tutorial
 ***
 Project  
 ---  
-Titanic :https://www.kaggle.com/c/titanic#description
+Titanic  
+Titanic :https://www.kaggle.com/c/titanic#description  
+https://blog.csdn.net/wydyttxs/article/details/76695205
 
 ***  
 Reference  
