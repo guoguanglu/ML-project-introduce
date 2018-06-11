@@ -2,6 +2,7 @@
 introduce some small machine learning projects.
 
 机器学习的角斗士  
+wine snob website: https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn
 扮演“点球成金”  
 预测股票价格  
 教会神经网络阅读的笔迹  
